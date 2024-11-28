@@ -1,4 +1,4 @@
-# simple_app
-
-A new Flutter project.
 # TapConnect
+
+A Flutter project.
+# To share and save contact details 
